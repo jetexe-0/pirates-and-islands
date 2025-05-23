@@ -1,0 +1,8 @@
+TextureRect
+AnimatedSprite2D
+TileMap
+Button
+Label
+VBoxContainer
+Control
+Node2D

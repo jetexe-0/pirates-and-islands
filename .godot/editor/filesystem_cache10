@@ -1,3 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1748025922
-icon.svg::CompressedTexture2D::3511152203296775056::1748025917::1748025923::1::::<><><>0<>0<>04ada56d356515e54a5e9624ec68a209<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1748032166
+bg.png::CompressedTexture2D::7312480636354290255::1748030602::1748030604::1::::<><><>0<>0<>9173a652bf333159fbd6eff27d87a4a7<>res://.godot/imported/bg.png-24bff804693ee063127ad100e04c5185.ctex::
+download-ezgif.com-gif-to-sprite-converter.png::CompressedTexture2D::39992104711422313::1748031936::1748031941::1::::<><><>0<>0<>aed843ba09c90cad9e383dd65ffbf2ca<>res://.godot/imported/download-ezgif.com-gif-to-sprite-converter.png-5fe141de0bf0940e4334358f35d4ba5c.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::3511152203296775056::1748025917::1748025923::1::::<><><>0<>0<>04ada56d356515e54a5e9624ec68a209<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main_menu.tscn::PackedScene::8722688463581665909::1748031678::0::1::::<><><>0<>0<><>::uid://b07mo34wbagj7::::res://pixel_pirate.ttf<>uid://dhjfgu0ljcqel::::res://mqdefault.png
+mqdefault.png::CompressedTexture2D::7669478745658356755::1748031625::1748031649::1::::<><><>0<>0<>6c8d008c0cb1ba9089ab630e744396bc<>res://.godot/imported/mqdefault.png-833733eca3dddc8aa5d23387d0db150f.ctex::
+pixel_pirate.ttf::FontFile::4207956984255744634::1748029316::1748029332::1::::<><><>0<>0<>0b2fd60c7c45342b4e869907b122965b<>res://.godot/imported/pixel_pirate.ttf-862a4436e4e70cdf0c432f0e72250f0f.fontdata::
+ship.png::CompressedTexture2D::2952732541438602955::1748032166::1748032176::1::::<><><>0<>0<>867096298655425638e1f6bc5db1c32c<>res://.godot/imported/ship.png-232cf3806b465084ad9b06c70afe8991.ctex::
