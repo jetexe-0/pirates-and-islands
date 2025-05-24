@@ -42,9 +42,3 @@ offset_right = 284.0
 offset_bottom = 45.0
 theme_override_fonts/font = ExtResource("1_06t4h")
 text = "Pirates and Islands"
-
-[node name="TextureRect" type="TextureRect" parent="."]
-z_index = -2
-layout_mode = 0
-offset_right = 318.0
-offset_bottom = 182.0
