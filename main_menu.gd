@@ -6,7 +6,7 @@ func _ready():
 	$VBoxContainer/QuitButton.pressed.connect(_on_quit_button_pressed)
 
 func _on_start_button_pressed():
-	var new_scene = preload("res://main_menu.tscn")  # Replace with your scene path
+	var new_scene = preload("res://scene.tscn")  # Replace with your scene path
 	get_tree().change_scene_to_packed(new_scene)
 
 func _on_quit_button_pressed():

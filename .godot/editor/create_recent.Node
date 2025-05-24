@@ -1,7 +1,7 @@
+TileMap
 Node2D
 TextureRect
 AnimatedSprite2D
-TileMap
 Button
 Label
 VBoxContainer
